@@ -1,4 +1,4 @@
-# Snapshot_image_creation_GCP
+# Snapshot & Image creation in GCP
 _________________________________________________________
 NOTE ==> Just use this script in your Google Cloud Shell
 __________________________________________________________
